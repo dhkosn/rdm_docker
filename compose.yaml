@@ -1,0 +1,28 @@
+services:
+  web:
+    platform: linux/amd64
+    build: .
+    container_name: rdm
+    ports:
+      - "8080:80"
+    volumes:
+      - ./RDMhosting:/var/www/html
+    restart: always
+    depends_on:
+      - db
+  db:
+    platform: linux/amd64
+    image: mysql:8.0
+    container_name: mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root_pass
+      MYSQL_DATABASE: rdm
+      MYSQL_USER: rdm_user
+      MYSQL_PASSWORD: rdm_pass
+    volumes:
+      - mysql_data:/var/lib/mysql
+
+volumes:
+  mysql_data:
+
